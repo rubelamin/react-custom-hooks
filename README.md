@@ -8,4 +8,4 @@ You need to know this:
 
 See the example below.
 
-- [Live Demo](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react)
+- [Live Demo](https://react-custom-hooks-dev.netlify.app)
