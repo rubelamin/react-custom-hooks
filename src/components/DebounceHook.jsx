@@ -21,7 +21,6 @@ function DebounceHook() {
     const { value, done } = await iteratorRef.current.next();
 
     if (done || !value?.length) return;
-    console.log(value);
 
     setRepos((prev) => [...prev, ...value]);
   };
